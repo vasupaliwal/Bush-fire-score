@@ -39,10 +39,21 @@ This analysis provides a comprehensive understanding of the fire risk in differe
 
 ## Key Results
 
-<img src="https://github.com/vasupaliwal/Bush-fire-score/blob/main/Fire_risk.png" alt="Fire Risk Score" width="500" height="500">
+<img src="https://github.com/vasupaliwal/Bush-fire-score/blob/main/Fire_risk.png" alt="Fire Risk Score" width="100%" height="300">
 
 
 The plot basically shows the fire risk in each neighbourhood using different colours itshows or neighbourhoods with the highest fire risk the legend next to the plot basically describes the colour code used for fire risk score from 0-1.
 
 
+### Correlation Analysis
 
+<div style="display:flex;">
+    <img src="https://github.com/vasupaliwal/Bush-fire-score/blob/main/analysis.png" alt="Image 1" style="width:50%;height=300px">
+    <img src="image2.png" alt="Image 2" style="width:50%;">
+</div>
+
+As we can see from the graph, there is a positive correlation between the bushfire risk score and the median income and rent of a neighbourhood in Sydney. However, the
+correlation coefficient is quite low which suggests that income and rent are weakly related to the bushfire score of a region in Sydney.The correlation coefficient between
+the bushfire risk score and the median income of a household is 0.12 whereas the correlation coefficient between the bushfire risk score and the rental price of a region is
+0.36.This shows that the relationship between bushfire risk score and rental price is relatively stronger than the relationship between bushfire risk score and median income
+of a neighbourhood
