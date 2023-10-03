@@ -40,7 +40,7 @@ This analysis provides a comprehensive understanding of the fire risk in differe
 ## Key Results
 
 
-<div style="text-align:center;" class="hello">
+<div style="text-align:center;  justify-content: center;" class="hello">
 <img src="https://github.com/vasupaliwal/Bush-fire-score/blob/main/Fire_risk.png" alt="Fire Risk Score" width="50%" height="300px" >
 </div>
 
@@ -49,9 +49,9 @@ The plot basically shows the fire risk in each neighbourhood using different col
 
 ### Correlation Analysis
 
-<div style="display:flex; justify-content: center;" class="hello1">
+<div style="display:flex; <div style="display:flex; justify-content: center;" class="hello1">" class="hello1">
     <img src="https://github.com/vasupaliwal/Bush-fire-score/blob/main/analysis.png" alt="Image 1" style="width:45%; height:300px;">
-    <img src="https://github.com/vasupaliwal/Bush-fire-score/blob/main/analysis2.png" alt="Image 2" style="width:45%; height:320px;">
+    <img src="https://github.com/vasupaliwal/Bush-fire-score/blob/main/analysis2.png" alt="Image 2" style="width:45%; height:310px;">
 </div>
 
 As we can see from the graph, there is a positive correlation between the bushfire risk score and the median income and rent of a neighbourhood in Sydney. However, the
