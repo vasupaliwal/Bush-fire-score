@@ -37,5 +37,9 @@ Here's a breakdown of the variables and methodology used in the analysis:
 
 This analysis provides a comprehensive understanding of the fire risk in different neighborhoods, considering population density, dwelling and business density, bush fire prone land density, availability of assistive services, and mean temperature.
 
+## Key Results
+
+![Fire Risk Score](link_to_your_image.png)
+
 
 
