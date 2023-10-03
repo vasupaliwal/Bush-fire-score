@@ -16,29 +16,6 @@ The data is organized into five files: `StatisticalAreas.csv`, `Neighbourhoods.c
 
 To calculate the fire risk score, we utilized the following formula:
 
-
-Certainly! Below is the information presented in a README.md format:
-
-markdown
-Copy code
-# Bush-fire-score Dataset and Fire Risk Score Analysis
-
-## Dataset Description:
-
-We have gathered comprehensive data to analyze the bushfire risk in different neighborhoods. The datasets include:
-
-- **Statistical Area 2 Data (SA2):** This data is in the .shp file format and was obtained from the Australian Bureau of Statistics.
-
-- **Bush Fire Prone Land Vegetation Data:** This information was sourced from the NSW Rural Fire Service.
-
-- **Census Data:** This dataset encompasses various neighborhood details, such as population density, number of dwellings, and business locations.
-
-The data is organized into five files: `StatisticalAreas.csv`, `Neighbourhoods.csv`, `BusinessStats.csv`, `RFSNSW_BFPL_small.shp`, and `SA2_2016_AUST.shp`.
-
-## Fire Risk Score Analysis:
-
-To calculate the fire risk score, we utilized the following formula:
-
 fire_risk = S(z(population_density) + z(dwelling_density + business_density) + z(bfpl_density) - z(assistive_service_density) + z(m_temp))
 
 
