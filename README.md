@@ -39,7 +39,7 @@ This analysis provides a comprehensive understanding of the fire risk in differe
 
 ## Key Results
 
-![Fire Risk Score](https://github.com/vasupaliwal/Bush-fire-score/blob/main/Fire_risk.png)
+<img src="https://github.com/vasupaliwal/Bush-fire-score/blob/main/Fire_risk.png" alt="Fire Risk Score" width="200" height="150">
 
 
 The plot basically shows the fire risk in each neighbourhood using different colours itshows or neighbourhoods with the highest fire risk the legend next to the plot basically describes the colour code used for fire risk score from 0-1.
