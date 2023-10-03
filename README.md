@@ -39,7 +39,7 @@ This analysis provides a comprehensive understanding of the fire risk in differe
 
 ## Key Results
 
-![Fire Risk Score](link_to_your_image.png)
+![Fire Risk Score](https://github.com/vasupaliwal/Bush-fire-score/blob/main/Fire_risk.png)
 
 
 
