@@ -39,8 +39,10 @@ This analysis provides a comprehensive understanding of the fire risk in differe
 
 ## Key Results
 
-<img src="https://github.com/vasupaliwal/Bush-fire-score/blob/main/Fire_risk.png" alt="Fire Risk Score" width="100%" height="300">
 
+<div style="text-align:center;">
+<img src="https://github.com/vasupaliwal/Bush-fire-score/blob/main/Fire_risk.png" alt="Fire Risk Score" width="50%" height="300px" >
+</div>
 
 The plot basically shows the fire risk in each neighbourhood using different colours itshows or neighbourhoods with the highest fire risk the legend next to the plot basically describes the colour code used for fire risk score from 0-1.
 
@@ -49,7 +51,7 @@ The plot basically shows the fire risk in each neighbourhood using different col
 
 <div style="display:flex;">
     <img src="https://github.com/vasupaliwal/Bush-fire-score/blob/main/analysis.png" alt="Image 1" style="width:50%;height=300px">
-    <img src="image2.png" alt="Image 2" style="width:50%;">
+    <img src="https://github.com/vasupaliwal/Bush-fire-score/blob/main/analysis2.png" alt="Image 2" style="width:50%;height=300px">
 </div>
 
 As we can see from the graph, there is a positive correlation between the bushfire risk score and the median income and rent of a neighbourhood in Sydney. However, the
