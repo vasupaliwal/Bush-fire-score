@@ -50,7 +50,7 @@ The plot basically shows the fire risk in each neighbourhood using different col
 ### Correlation Analysis
 
 <div style="display:flex; justify-content: center;" class="hello1">
-    <img src="https://github.com/vasupaliwal/Bush-fire-score/blob/main/analysis.png" alt="Image 1" style="width:50%; height:300px;">
+    <img src="https://github.com/vasupaliwal/Bush-fire-score/blob/main/analysis.png" alt="Image 1" style="width:40%; height:300px;">
     <img src="https://github.com/vasupaliwal/Bush-fire-score/blob/main/analysis2.png" alt="Image 2" style="width:40%; height:300px;">
 </div>
 
